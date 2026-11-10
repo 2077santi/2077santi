@@ -1,6 +1,6 @@
 # Santiago Espino
 
-Operations analyst in Barcelona. I spent 3+ years at TELUS Digital AI Data Solutions on AI training-data programs, first labelling and reviewing content, then running reporting, QA and process work. Before that I worked in telecom customer support.
+Operations analyst at TELUS Digital AI Data Solutions in Barcelona. I have worked on AI training-data programs there since 2023, first labelling and reviewing content, now running reporting, QA and process work. Before that I worked in telecom customer support.
 
 I like turning messy operations into numbers, rules and small automations.
 
